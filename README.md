@@ -12,4 +12,5 @@ Até o momento, consegui verificar a existência de dois bugs no jogo.
 - Nessa versão, se o jogo passar da nona rodada automaticamente será declarado empate.
 
 ## Bibliotecas usadas
-- Biblioteca padrão do C. (
+- Biblioteca padrão do C. (stdio.h)
+- Biblioteca para usarmos a função de limpar o console durante o jogo (stlib.h)
